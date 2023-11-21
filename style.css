@@ -29,14 +29,14 @@
   position: absolute;
   width: 96px;
   height: 70px;
-  top: 13px;
+  top: -10px;
   left: 1262px;
 }
 
 .desktop .text-wrapper {
   position: absolute;
   width: 17px;
-  top: 37px;
+  top: 0px;
   left: 31px;
   font-family: "Inter-Regular", Helvetica;
   font-weight: 400;
@@ -119,7 +119,7 @@
   font-family: "Inter-Regular", Helvetica;
   font-weight: 400;
   color: #000000;
-  font-size: 30px;
+  font-size: 27px;
   letter-spacing: 0;
   line-height: normal;
   justify-content: space-between;
