@@ -1,5 +1,5 @@
 .desktop {
-  background-color: rgb(74, 96, 129);
+  background-color: #fff;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -17,8 +17,9 @@
 
 .desktop .overlap-group {
   position: absolute;
-  width: 1438px;
-  height: 107px;
+  width: 1440px;
+  height: 90px;
+  background-color: #fff;
   top: 0;
   left: 0;
   background-size: 100% 100%;
@@ -27,7 +28,7 @@
 .desktop .logo {
   position: absolute;
   width: 96px;
-  height: 87px;
+  height: 70px;
   top: 13px;
   left: 1309px;
 }
@@ -114,9 +115,10 @@
 }
 
 .lotr {
-  width: 100%;
       height: auto;
+      max-width: 100%;
 }
+
 
 .Tekst {
   font-family: "Inter-Regular", Helvetica;
@@ -166,7 +168,7 @@
       width: 90%;
       max-width: 100%; /* Set max-width as needed */
       left: 50%;
-      transform: translateX(-50%);
+      transform: translateX(-90%);
   }
 
   .logo {
